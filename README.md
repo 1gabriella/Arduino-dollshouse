@@ -11,12 +11,9 @@ When the sensor detects a nearby object (like your hand searching around), it tr
 ## 🛠 Features
 - 🎵 **Phone Ringtone Simulation** using a buzzer
 - 📏 **Distance Detection** using an ultrasonic sensor
-- 📺 **Animated OLED Display** showing a worried cartoon + ringing phone animations
+- 📺 **Animated OLED Display** showing a cute  cartoon girl worried because she lost her phone  + ringing phone animations
 - 🚨 **LED Alert** lighting up when the phone is "found"
-- 🧩 **Modular Codebase** with clean separated libraries:
-  - `OLEDAnimations.h`
-  - `SensorFunctions.h`
-  - `BuzzerFunctions.h`
+
 
 ---
 
